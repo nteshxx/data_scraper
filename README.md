@@ -1,2 +1,3 @@
-## dynamic web scraper
-We scraped the High School Summary table data using Selenium Web Driver, which is used for web browser automation.
+Scraping targeted High School Summary table data and storing it in excel format for further use.
+### Libraries
+* Selenium Selenium is a suite of tools for automating web browsers.
